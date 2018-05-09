@@ -1,0 +1,30 @@
+body{background-color: #d3c4a3;
+	
+
+}
+
+
+header{background-color: #cca65d;
+	   height: 34px;
+	   padding-top: 34px;
+	   
+
+}	
+.content{background-color: white;
+	     image-rendering:center;
+	   
+	     padding:30px;
+	     margin-right: 126px;
+	     margin-left: 126px;
+	  
+}
+footer{text-align: center;
+	   height:71px;
+	   background-color:#413827;
+
+}
+h2{text-align: right;
+   
+
+}
+

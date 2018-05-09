@@ -1,0 +1,19 @@
+body{background-color: grey;
+}
+h1{color: red;
+	
+}
+h2{color: green;
+
+}
+.content{background-color: white
+}
+header{text-align: center;
+}
+.content-a{
+	background-color: white;
+	width: 1000px;
+	margin: auto;
+	padding: 20px;
+}
+
