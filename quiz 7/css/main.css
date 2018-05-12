@@ -1,78 +1,117 @@
 body{
+
 	background-color: #d1d1d1;
 	width: 1000px;
-	margin: 10px auto;
+	height: 500px;
 
 }
 header{
-	text-align: center;
 	background-color: #2f4351;
+	text-align: center;
+	width:980px;
 	padding: 10px;
-	width:1000px;
+	height: 20px;
 
 }
 .content{
-	background-color: #3b5367;
 	width: 1000px;
-    padding: 10px
+	background: #3b5367;
+	margin-top: -22px;
+
+
 }
 h1{
 	text-align: center;
-	color: white;
+	color:white;
+	padding: 10px;
 }
 h2{
+
 	text-align: center;
-	color: yellow;
+	color:yellow; 
 }
 h3{
 	text-align: center;
 	color: yellow;
 }
-h4{
-	background-color: #f7ce06;
-	padding: 15px;
-}
-.para{
-	
-	float:right;
-	width: 300px;
-	height: 100px;
-	padding: 20px;
-
-
+.img{
+	width: 500px;
+	height:300px;
+	background-color: white;
+	padding-left: 20px;
+	margin: 5px auto;
 }
 .cont{
-	width:700px;
-	margin: 5px auto;
-	height: 100px;
-	padding: 20px;
-	
+	float: right;
+	width:225px;
+	height: 200px;
 }
-.cont1{
+h4{
+	text-align: center;
+	background:#f7ce06;
+	width: 500px;
+	padding: 5px;
+}
+.container{
+
+	width:500px;
+	height:500px;
+	padding-left: 190px;
+}
+.left-element{
+	width: 250px;
+	float: left;
+	display: inline-block;
+	background-color: white;
+	height: 274px;
+	margin: 20px;
+	padding-left: 10px;
+	
+
+}
+.right-element{
+	background-color: white;
+	display: inline-block;
+	float: right;
+	position: absolute;
+	width: 250px;
+	height:270px;
+	margin:20px;
+	padding-left:10px;
+
+}
+h5{
+	background-color: #f7ce06;
+	padding: 10px;
+}
+h6{
+	background-color: #f7ce06;
+	padding: 10px;
+}
+.table{
 	width: 700px;
-	height:100px;
+	background:white;
+	border-collapse: collapse;
+	border: 1px solid black;
+	height: 500px;
+	padding-left: 100px;
+	margin-top: -190px;
+
+
 }
-.hobbies{
-	width: 1000px;
-	min-height: 500px;
-	background-color: red;
-	margin:310px auto;
+.table th{
+
+	padding-top: 50px auto;
+	padding-bottom: 50px auto;
+	text-align: left;
+    background-color: #f7ce06;
+    color: white;
+
 }
+.table td, .table th {
+    border: 1px solid #ddd;
+    padding: 50px;
+ }
 
 
 
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-  
